@@ -1,6 +1,6 @@
 ## Hello World, Eu sou rafinh17 ! 🐤
 
-- 💜 Hoje eu fasso curso de python e robotica 
+- 💜 Hoje eu faço curso de python e robotica 
 - ❤️ Sou estudante de ensino medio 
 - 🖤 Contate me : fafa.macisilva15@gmail.com
 
@@ -36,4 +36,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafinh17/rafinh17/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafinh17/rafinh17/output/github-contribution-grid-snake.svg">
 </picture>
+
 
